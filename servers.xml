@@ -182,7 +182,7 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>Bulgaria</gge-server-name>
 			<name>BG1</name>
 		</server>
@@ -254,7 +254,7 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>Partner server - 3</gge-server-name>
 			<name>PARTNER_SP3</name>
 		</server>
