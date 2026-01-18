@@ -122,7 +122,7 @@
 		</server>
 		<server>
 			<enabled>true</enabled>
-			<featured>false</featured>
+			<featured>true</featured>
 			<gge-server-name>Australia</gge-server-name>
 			<name>AU1</name>
 		</server>
