@@ -296,7 +296,7 @@
   "Participation": "Participatie",
   "Pas de filtre": "Geen filter",
   "Patrimoine d'alliance": "BG commandocentrum",
-  "Perte de gloire": "-{0}% roem per dag",
+  "Perte de gloire": "-{{0}}% roem per dag",
   "Pillage": "Buit",
   "Pillage hebdo cumulé": "Wekelijks gezamelijke buit ",
   "Pillage hebdo maximal": "Wekelijks maximale buit",
@@ -644,10 +644,10 @@
     "playerTitle_7": "Hertog",
     "playerTitle_8": "Prins",
     "playerTitle_9": "Keurvorst",
-    "playerTitle_composition": "{0} {1} {2}",
-    "playerTitle_composition_prefix": "{0} {1}",
-    "playerTitle_composition_prefix_suffix": "{0} {1} {2}",
-    "playerTitle_composition_prefix_suffix_stormlord": "{0} {1} {2}"
+    "playerTitle_composition": "{{0}} {{1}} {{2}}",
+    "playerTitle_composition_prefix": "{{0}} {{1}}",
+    "playerTitle_composition_prefix_suffix": "{{0}} {{1}} {{2}}",
+    "playerTitle_composition_prefix_suffix_stormlord": "{{0}} {{1}} {{2}}"
   },
   "Écart type des scores (variabilité)": "Score standaarddeviatie (variabiliteit)",
   "Événement courant": "Huidig event",

@@ -296,7 +296,7 @@
   "Participation": "Teilnahme",
   "Pas de filtre": "Kein Filter",
   "Patrimoine d'alliance": "Allianzgebäude",
-  "Perte de gloire": "-{0}% Ruhm pro Tag",
+  "Perte de gloire": "-{{0}}% Ruhm pro Tag",
   "Pillage": "Beute",
   "Pillage hebdo cumulé": "Gesamte wöchentliche Beute",
   "Pillage hebdo maximal": "Maximale wöchentliche Beute",
@@ -644,10 +644,10 @@
     "playerTitle_7": "Herzog",
     "playerTitle_8": "Fürst",
     "playerTitle_9": "Kurfürst",
-    "playerTitle_composition": "{0} {1} {2}",
-    "playerTitle_composition_prefix": "{0} {1}",
-    "playerTitle_composition_prefix_suffix": "{0} {1} {2}",
-    "playerTitle_composition_prefix_suffix_stormlord": "{0} {1} {2}"
+    "playerTitle_composition": "{{0}} {{1}} {{2}}",
+    "playerTitle_composition_prefix": "{{0}} {{1}}",
+    "playerTitle_composition_prefix_suffix": "{{0}} {{1}} {{2}}",
+    "playerTitle_composition_prefix_suffix_stormlord": "{{0}} {{1}} {{2}}"
   },
   "Écart type des scores (variabilité)": "Standardabweichung (Punktzahl-Streuung)",
   "Événement courant": "Aktuelles Event",

@@ -296,7 +296,7 @@
   "Participation": "Participation",
   "Pas de filtre": "No filter",
   "Patrimoine d'alliance": "Alliance building",
-  "Perte de gloire": "-{0}% glory per day",
+  "Perte de gloire": "-{{0}}% glory per day",
   "Pillage": "Looting",
   "Pillage hebdo cumulé": "Cumulative weekly looting",
   "Pillage hebdo maximal": "Maximum weekly looting",
@@ -644,10 +644,10 @@
     "playerTitle_7": "Marquis",
     "playerTitle_8": "Vice Duke",
     "playerTitle_9": "Duke",
-    "playerTitle_composition": "{0} {1} {2}",
-    "playerTitle_composition_prefix": "{0} {1}",
-    "playerTitle_composition_prefix_suffix": "{0} {1} {2}",
-    "playerTitle_composition_prefix_suffix_stormlord": "{0} {1} {2}"
+    "playerTitle_composition": "{{0}} {{1}} {{2}}",
+    "playerTitle_composition_prefix": "{{0}} {{1}}",
+    "playerTitle_composition_prefix_suffix": "{{0}} {{1}} {{2}}",
+    "playerTitle_composition_prefix_suffix_stormlord": "{{0}} {{1}} {{2}}"
   },
   "Écart type des scores (variabilité)": "Score standard deviation (variability)",
   "Événement courant": "Current event",

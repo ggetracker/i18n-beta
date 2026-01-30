@@ -296,7 +296,7 @@
   "Participation": "Participation",
   "Pas de filtre": "Pas de filtre",
   "Patrimoine d'alliance": "Patrimoine d'alliance",
-  "Perte de gloire": "-{0} % gloire/jour",
+  "Perte de gloire": "-{{0}} % gloire/jour",
   "Pillage": "Pillage",
   "Pillage hebdo cumulé": "Pillage hebdo cumulé",
   "Pillage hebdo maximal": "Pillage hebdo maximal",
@@ -644,10 +644,10 @@
     "playerTitle_7": "Marquis",
     "playerTitle_8": "Duc",
     "playerTitle_9": "Grand Duc",
-    "playerTitle_composition": "{0} {1} {2}",
-    "playerTitle_composition_prefix": "{0} {1}",
-    "playerTitle_composition_prefix_suffix": "{0} {1} {2}",
-    "playerTitle_composition_prefix_suffix_stormlord": "{0} {1} {2}"
+    "playerTitle_composition": "{{0}} {{1}} {{2}}",
+    "playerTitle_composition_prefix": "{{0}} {{1}}",
+    "playerTitle_composition_prefix_suffix": "{{0}} {{1}} {{2}}",
+    "playerTitle_composition_prefix_suffix_stormlord": "{{0}} {{1}} {{2}}"
   },
   "Écart type des scores (variabilité)": "Écart type des scores (variabilité)",
   "Événement courant": "Événement courant",

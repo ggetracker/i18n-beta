@@ -296,7 +296,7 @@
   "Participation": "Udział",
   "Pas de filtre": "Brak filtrów",
   "Patrimoine d'alliance": "Budynek sojuszu",
-  "Perte de gloire": "-{0}% chwały dziennie",
+  "Perte de gloire": "-{{0}}% chwały dziennie",
   "Pillage": "Łupy",
   "Pillage hebdo cumulé": "Łącznie łupów tygodniowych",
   "Pillage hebdo maximal": "Najwięcej łupów tygodniowych",
@@ -644,10 +644,10 @@
     "playerTitle_7": "Markiz",
     "playerTitle_8": "Kniaź",
     "playerTitle_9": "Diuk",
-    "playerTitle_composition": "{0} {1} {2}",
-    "playerTitle_composition_prefix": "{0} {1}",
-    "playerTitle_composition_prefix_suffix": "{0} {1} {2}",
-    "playerTitle_composition_prefix_suffix_stormlord": "{0} {1} {2}"
+    "playerTitle_composition": "{{0}} {{1}} {{2}}",
+    "playerTitle_composition_prefix": "{{0}} {{1}}",
+    "playerTitle_composition_prefix_suffix": "{{0}} {{1}} {{2}}",
+    "playerTitle_composition_prefix_suffix_stormlord": "{{0}} {{1}} {{2}}"
   },
   "Écart type des scores (variabilité)": "Odchylenie standardowe wyników (zmienność)",
   "Événement courant": "Bieżące wydarzenie",
